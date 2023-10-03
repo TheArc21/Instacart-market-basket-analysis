@@ -15,5 +15,10 @@ The project will follow the following steps:
   7. Adding Rhetoric to Your Story
   8. Formatting the Story
 
+# Acquiring Data 
+The orders.csv file and the orders_products_train.csv file will be related to create a custom data source for every visualization. Tableau will automatically select join types based on the fields used in the visualization.
+![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/fcae188c-6736-47cf-8e3a-efe2024d3985)
+
+
 Since I cannot upload files more that 25 MB in size I have included the link to the project twbx file: https://www.dropbox.com/scl/fi/8mmsagu5qo9dbza1odreb/Instacart.twbx?rlkey=fk9x9ex2k5da6wparonsq7s60&dl=0
 
