@@ -5,8 +5,6 @@ The dataset for this project is obtained from Instacart, an electronic commerce 
 
 # Creating a Data Narrative for Instacart Grocery Orders Dataset
 
-This project aims to create a data narrative using the Instacart grocery orders dataset. The dataset contains information on more than 3 million grocery orders from over 200,000 Instacart users, including details about the orders placed, the sequence of products purchased, the time and day of the order, and more.
-
 The project will follow the following steps:
   1. Acquiring Data
   2. Defining the Audience
