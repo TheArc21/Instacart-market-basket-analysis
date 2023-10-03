@@ -21,6 +21,7 @@ The orders.csv file and the orders_products_train.csv file will be related to cr
 
 # Defining the Audience
 The audience will be defined to ensure that the data narrative is tailored to their needs and interests.
+
 •	The primary audience for the communication consists of several groups, including key decision-makers and stakeholders such as store managers, senior leadership, the sales executive team, the business intelligence team, and the marketing team. The key decision-makers in the audience are the senior leadership, which includes the CEO, CFO, CMO, and CTO, as well as the regional sales managers and business development heads of the sales team. While the senior leadership has shallow knowledge of the data, the sales team has deep knowledge of sales and customers.
 
 •	The audience cares about enhancing customer engagement and retention, boosting sales and order volume, and maintaining economic and technological relevance in the market. Based on the analysis conducted, the marketing team should organize multiple campaigns offering discounts throughout the weekend, establish a partnership with leading locally sourced organic brands, and focus on targeting households and restaurants.
