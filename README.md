@@ -33,6 +33,7 @@ The audience will be defined to ensure that the data narrative is tailored to th
 The data will be analyzed in several sections to gain insights and develop the storyline. The analysis will include:
 
 a) Service Analysis: This section will analyze the busiest days of the week, the busiest hours, the top 10 products in the busiest hours, and the days since the prior order.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/b1a2c318-7ae1-459f-9135-6a99a17bd6f3)
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/86dfe277-df08-493e-9273-6c787e6551c6)
@@ -41,7 +42,8 @@ a) Service Analysis: This section will analyze the busiest days of the week, the
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/dc9b765f-474d-4079-a06a-80a192c8465b)
 
-b) Product Analysis: This section will analyse the best-selling products, the top 10 products on the first order, the top 10 reordered products in terms of their probability of being reordered, and the number of items purchased in an order.
+b) Product Analysis: This section will analyze the best-selling products, the top 10 products on the first order, the top 10 reordered products in terms of their probability of being reordered, and the number of items purchased in an order.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/ebfe8b51-7cdb-408c-9c1e-06545a6b952f)
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/557952a9-6d9a-4c74-a986-7fd3f64f2905)
@@ -49,12 +51,14 @@ b) Product Analysis: This section will analyse the best-selling products, the to
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/3fdb375c-e744-43b6-b72e-049437d0a8c4)
 
 c) Category Analysis: This section will include a treemap of aisles and products, highlighting the most popular aisles and top products.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/e7b1613d-55fa-428a-b146-c9a5aecbf3cd)
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/59352fd6-d9e4-4723-8e32-c3c10f44df5c)
 
 # Curate your Views
 The best evidence displaying insights will be curated into visualizations, including worksheets such as Busiest Hours, Busiest Days of the Week, Days Since Prior Order, Number of Items Purchased, Best Selling Products, Treemap of Aisles and Products, and the six Top Products per Group worksheets.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d13a6463-2df2-4867-bb8d-c086201d3f0f)
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/20ad329a-30ea-474e-b05d-2e9127178363)
@@ -80,22 +84,25 @@ The storyline will be organized using Freytag’s Pyramid, and story points will
 Freytag’s Pyramid:
 1.	Busiest Hours: Exposition (Beginning) 
 2.	Best Selling Products: Inciting Incident 
-3.	Busiest Days of the week: Rising Action
+3.	Busiest Days of the Week: Rising Action
 4.	Number of Items Purchased:  Climax
 5.	Days Since Prior Order: Falling Action
 6.	Treemap of Aisles and Products: Resolution
+   
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/46865af2-5cad-477a-9a78-19b170b35a42)
 
 # Creating a Story in Tableau
-A story will be created in Tableau using the curated visualizations and organized storyline.
+A story will be created in Tableau using curated visualizations and an organized storyline.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/ae6e843c-3ab3-463d-befe-2919d6d6fef7)
 
 # Adding Rhetoric to Your Story
 The analysis will be shaped into a story about a new promotional program for reducing the time between grocery orders, using the appropriate rhetoric for this purpose. 
-Here we have used logical rhetoric approach.
+Here we have used a logical rhetoric approach.
 
 # Formatting the Story
 The data narrative will be polished and formatted for high-grade publishing.
+
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d616d734-359c-4141-9b21-c46a11a6d43c)
 
 ![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/eea20802-e24c-4184-99f5-d6e70f25612f)
@@ -106,5 +113,5 @@ Overall, this project will provide valuable insights into Instacart's grocery or
 
 
 
-Since I cannot upload files more that 25 MB in size I have included the link to the project twbx file: https://www.dropbox.com/scl/fi/8mmsagu5qo9dbza1odreb/Instacart.twbx?rlkey=fk9x9ex2k5da6wparonsq7s60&dl=0
+Since I cannot upload files more than 25 MB in size I have included the link to the project twbx file: https://www.dropbox.com/scl/fi/8mmsagu5qo9dbza1odreb/Instacart.twbx?rlkey=fk9x9ex2k5da6wparonsq7s60&dl=0
 
